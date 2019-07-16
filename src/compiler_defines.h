@@ -44,4 +44,5 @@
 // identifiers in template instantiations. (Contributed by John A. McNamara)
 #ifdef _MSC_VER
 #pragma warning( disable:4786 )
+#define _CRT_SECURE_NO_WARNINGS
 #endif
